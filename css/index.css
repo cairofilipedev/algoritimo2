@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 30px;
+}
+
+h3{
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
